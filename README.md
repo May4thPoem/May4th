@@ -1,8 +1,9 @@
 # 五四文学社
 
-> ![May4th-Badge](https://ww4.sinaimg.cn/mw1024/9e294c53jw1eazw1rji9mj205006fdga.jpg)
-
-> 洗心革面的未来生活
+<p align="center">
+  <img src="https://ww4.sinaimg.cn/mw1024/9e294c53jw1eazw1rji9mj205006fdga.jpg" alt="May4th-Badge" height="300px"/>
+  <p align="center"> “洗心革面的未来生活” </p>
+</p>
 
 北京大学五四文学社是北京大学历史最悠久、贡献最突出的文学社团，也是北京大学现存注册时间最早的学生社团。从1956年以来，一代又一代拥有共同诗歌理想的年轻人，用他们最纯洁的信念不断激发"五四"的潜能。      
 
