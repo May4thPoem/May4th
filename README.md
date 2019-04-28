@@ -9,4 +9,7 @@
 
 五四文学社踏实、勤奋、先锋的传统，确立了校园文坛乃至中国文学界中的地位。62年来，参与五四文学社及其活动中的诗人、评论家和读者们足以构成一部中国新诗史。已经举办了19届的未名诗歌节，在保持未名湖诗会近30年的传统的同时，也具有了更强的能量，更高远的探求和更巨大的包容力。
 
-## [活动记录](https://github.com/May4thPoem/Activities)
+## 我们的活动
+
+- [日常活动](https://github.com/May4thPoem/Activities)
+- [未名诗歌节](https://github.com/May4thPoem/Festivals)
