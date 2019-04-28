@@ -13,3 +13,9 @@
 
 - [日常活动](https://github.com/May4thPoem/Activities)
 - [未名诗歌节](https://github.com/May4thPoem/Festivals)
+
+## 我们在
+
+- 微信公众号：[五四文学社（wusipoem）](http://mp.weixin.qq.com/profile?src=3&timestamp=1556412678&ver=1&signature=0JPAHswwf8iT2*MxJAkXpZ7fl0s7CO9Kgy34IpKtki2nY1xxUq3jjba2fRe5Rac7naGroSKDfiTff9wCN*chZQ==)
+- 微博：[@北大五四文学社](https://www.weibo.com/p/1005052653506643)
+- 豆瓣：[北京大学五四文学社](http://site.douban.com/may4th/)
